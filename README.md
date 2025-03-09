@@ -5,7 +5,7 @@
 
 ⚠️ DISCLAIMER
 
-🚨 This tool is for educational purposes ONLY! 🚨
+🚨 NO BACKDOOR OR VIRUS 🚨
 
 Misuse of this script can result in account bans.
 
@@ -15,7 +15,7 @@ Use responsibly within legal and ethical guidelines.
 
 🔹 Double-click start.bat to run the script instantly!
 
-⭐ Support
+⭐ INSTRUCTIONS ON MY YOUTUBE CHANNEL
 
 🔥 Like this project? Consider starring ⭐ it on GitHub!
 
