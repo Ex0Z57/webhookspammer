@@ -7,8 +7,6 @@
 
 🚨 NO BACKDOOR OR VIRUS 🚨
 
-Misuse of this script can result in account bans.
-
 I am NOT responsible for any consequences of your actions.
 
 Use responsibly within legal and ethical guidelines.
@@ -19,6 +17,6 @@ Use responsibly within legal and ethical guidelines.
 
 🔥 Like this project? Consider starring ⭐ it on GitHub!
 
-📢 Got issues? Open an issue or DM me on Discord.
+📢 Got issues? Open an issue or DM me on Discord: o2ong
 
 💀 Stay anonymous, stay safe.
